@@ -6,8 +6,8 @@
 ## Group members
 | Full name | Student ID |
 |-----------|------------|
-| <Member 1 full name> | <ID1> |
-| <Member 2 full name> | <ID2> |
+| Dushimimana Gasana Aristide | 28399 |
+| Irakoze Ruth Loriane | 20252IMA226 |
 
 ## Application description
 A university registration and grading back-end. Students enroll in courses for a
